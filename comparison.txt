@@ -1,0 +1,15 @@
+Samuel Sanchez, Athena Raya, Evelyn Murillo, Regie Daquioag
+
+               two_a.txt      two_b.txt      % difference
+Mean           0.00243506     0.00230615     5.43769        
+Variance       0.111609       0.103845       7.20701        
+Deviation      0.334079       0.32225        3.60468        
+Power          0.111615       0.10385        7.2072         
+Magnitude      0.226944       0.273091       18.4577        
+Zero Crossings 112            68             48.0447        
+ 
+ B. The values for each data file that match closely are: mean. 
+ C. The values for each data file that are mostly different are: 
+ D. Other statistical measures we would suggest are: sound waves 
+ E. By examining the data from both file we have determined the percentage
+difference is too great to concluded that voice captured is Maria Estrella 
